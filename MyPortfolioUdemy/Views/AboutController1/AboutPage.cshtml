@@ -1,0 +1,54 @@
+﻿@model List<MyPortfolioUdemy.DAL.Entities.About>
+@{
+    ViewData["Title"] = "AboutPage";
+    Layout = "~/Views/LayoutController1/Index.cshtml";
+}
+
+<div class="content">
+    <div class="container-fluid">
+        <h4 class="page-title">Hakkımda</h4>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="card-header">
+                        <div class="card-title">Hakkımda Sayfası</div>
+                    </div>
+                    <div class="card-body">
+                        <div class="card-sub">
+                            Hakkımda Sayfası işlemlerini aşağıdaki panelden yapabilirsiniz :
+                        </div>
+                        <table class="table mt-3">
+                            <thead>
+                                <tr>
+                                    <th scope="col">#</th>
+                                    <th scope="col">Başlık</th>
+                                    <th scope="col">Kısa Açıklama</th>
+                                    <th scope="col">Detay</th>
+                                    <th scope="col">Sil</th>
+                                    <th scope="col">Güncelle</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <td>@item.AboutID</td>
+                                        <td>@item.Title</td>
+                                        <td>@item.SubDescription</td>
+                                        <td>@item.Details</td>
+                                        <td><a href="/AboutController1/DeleteAbout/@item.AboutID" class="btn btn-danger">Sil</a></td>
+                                        <td><a href="/AboutController1/UpdateAbout/@item.AboutID" class="btn btn-success">Güncelle</a></td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+
+                        <a href="/AboutController1/CreateAbout" class="btn btn-info">Yeni hakkımda Bilgisi Ekle</a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
