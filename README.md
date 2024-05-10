@@ -35,9 +35,9 @@ Projenin dosyalarını çalıştırın. <br/>
 ## PROJENİN EKRAN GÖRÜNTÜLERİ
 
 ![deneme](https://i.hizliresim.com/nnqam13.png) <br/>
+![deneme](https://i.hizliresim.com/n3qnrfs.jpg) <br/>
+![deneme](https://i.hizliresim.com/sbykofn.jpg) <br/>
 ![deneme](https://i.hizliresim.com/54c2m0j.png) <br/>
 ![deneme](https://i.hizliresim.com/gzp9i9z.png) <br/>
 ![deneme](https://i.hizliresim.com/ip0sv0x.png) <br/>
 ![deneme](https://i.hizliresim.com/gndzuir.png) <br/>
-![deneme](https://i.hizliresim.com/n3qnrfs.jpg) <br/>
-![deneme](https://i.hizliresim.com/sbykofn.jpg) <br/>
