@@ -7,30 +7,30 @@ yeteneklerim, mağazamdaki ürünler, referanslarım, sosyal medya hesaplarım v
 
 ## KULLANILAN TEKNOLOJİLER VE KÜTÜPHHANELER;
 
-ASP.NET Core (6.0) <br />
-Microsoft.Entity.FrameworkCore (6.0.28) <br />
-Microsoft.Entity.FrameworkCore.Design (6.0.28) <br />
-Microsoft.Entity.FrameworkCore.SqlServer (6.0.28) <br />
-Microsoft.Entity.FrameworkCore.Tools (6.0.28) <br />
-Layout Kontrolü <br />
-Controller Yapısı <br />
-View Components ile Partial View Kullanımı <br />
-Code First <br />
-Entity Framework <br />
-Model Yapısı <br />
-View Yapısı <br />
-Linq Sorguları <br />
-Entity Framework Sorguları <br />
-Hazır Template Kurulumu ve Düzenlenmesi <br />
-Context Yapısı <br />
+- ASP.NET Core (6.0) <br />
+- Microsoft.Entity.FrameworkCore (6.0.28) <br />
+- Microsoft.Entity.FrameworkCore.Design (6.0.28) <br />
+- Microsoft.Entity.FrameworkCore.SqlServer (6.0.28) <br />
+- Microsoft.Entity.FrameworkCore.Tools (6.0.28) <br />
+- Layout Kontrolü <br />
+- Controller Yapısı <br />
+- View Components ile Partial View Kullanımı <br />
+- Code First <br />
+- Entity Framework <br />
+- Model Yapısı <br />
+- View Yapısı <br />
+- Linq Sorguları <br />
+- Entity Framework Sorguları <br />
+- Hazır Template Kurulumu ve Düzenlenmesi <br />
+- Context Yapısı <br />
 
 ## BU PROJEYİ NASIL ÇALIŞTIRABİLİRSİNİZ ?
 
-Porjeyi çalıştırmak için izleyeceğiniz adımlar ; <br/>
-Projenin dosyalarını bilgisayarınıza indirin. <br/>
-Visual Studio gibi bir IDE kullanarak projeye ait dosyaları açın. <br/>
-Projenin dosyalarını çalıştırın. <br/>
-Şimdi https://localhost:port adresine giderek projeyi görüntüleyebilirsiniz. <br/>
+1. Porjeyi çalıştırmak için izleyeceğiniz adımlar ; <br/>
+2. Projenin dosyalarını bilgisayarınıza indirin. <br/>
+3. Visual Studio gibi bir IDE kullanarak projeye ait dosyaları açın. <br/>
+4. Projenin dosyalarını çalıştırın. <br/>
+5. Şimdi https://localhost:port adresine giderek projeyi görüntüleyebilirsiniz. <br/>
 
 ## PROJENİN EKRAN GÖRÜNTÜLERİ
 
