@@ -26,11 +26,11 @@ yeteneklerim, mağazamdaki ürünler, referanslarım, sosyal medya hesaplarım v
 
 ## BU PROJEYİ NASIL ÇALIŞTIRABİLİRSİNİZ ?
 
-1. Porjeyi çalıştırmak için izleyeceğiniz adımlar ; <br/>
-2. Projenin dosyalarını bilgisayarınıza indirin. <br/>
-3. Visual Studio gibi bir IDE kullanarak projeye ait dosyaları açın. <br/>
-4. Projenin dosyalarını çalıştırın. <br/>
-5. Şimdi https://localhost:port adresine giderek projeyi görüntüleyebilirsiniz. <br/>
+ Porjeyi çalıştırmak için izleyeceğiniz adımlar ; <br/>
+1. Projenin dosyalarını bilgisayarınıza indirin. <br/>
+2. Visual Studio gibi bir IDE kullanarak projeye ait dosyaları açın. <br/>
+3. Projenin dosyalarını çalıştırın. <br/>
+4. Şimdi https://localhost:port adresine giderek projeyi görüntüleyebilirsiniz. <br/>
 
 ## PROJENİN EKRAN GÖRÜNTÜLERİ
 
